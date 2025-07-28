@@ -1,5 +1,5 @@
 ﻿Project Setup
-1.	Open the Asp .net Core Web API Project
+1.	Open the Asp .net Core Web API Project (Open EmployeeCrudApi.sln file)
 2.	Build the Project
 3.	Run the Application
 4.	Access Swagger UI (API Explorer)
